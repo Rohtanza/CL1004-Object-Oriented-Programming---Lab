@@ -1,0 +1,13 @@
+# ninja log v5
+2	570	1682671001700948000	CMakeFiles/Task_01.dir/Complex.cpp.o	1f493f638bc58d68
+2	56	1682671001187280200	CMakeFiles/Task_01.dir/Operations.cpp.o	d99844200de3edcc
+1	569	1682671001700749500	CMakeFiles/Task_01.dir/main.cpp.o	dd87dcc9eeb7dabc
+570	650	1682671001780815400	Task_01	47838f0beda45a71
+2	315	1682671260790848000	CMakeFiles/Task_01.dir/Operations.cpp.o	ca0ab3f3ff53c4bc
+1	991	1682671261466382200	CMakeFiles/Task_01.dir/Complex.cpp.o	d22ecc32b3dbdb59
+1	1006	1682671261481751700	CMakeFiles/Task_01.dir/main.cpp.o	2af32c47ef0c4884
+1006	1088	1682671261563276300	Task_01	47838f0beda45a71
+1	58	1682671284034055900	CMakeFiles/Task_01.dir/Operations.cpp.o	ca0ab3f3ff53c4bc
+0	757	1682671284733461700	CMakeFiles/Task_01.dir/main.cpp.o	2af32c47ef0c4884
+1	777	1682671284753677700	CMakeFiles/Task_01.dir/Complex.cpp.o	d22ecc32b3dbdb59
+777	859	1682671284835086600	Task_01	47838f0beda45a71

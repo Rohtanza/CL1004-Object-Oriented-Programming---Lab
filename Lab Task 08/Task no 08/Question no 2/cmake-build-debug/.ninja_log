@@ -1,0 +1,14 @@
+# ninja log v5
+1	699	1679833799303004300	CMakeFiles/OOP_lab_task_08.dir/DefinationOfClasses.cpp.o	96c0f3455ab4a172
+1	585	1679833831169504300	CMakeFiles/OOP_lab_task_08.dir/main.cpp.o	14dbf8c0f85e0d80
+1	626	1679833831210435400	CMakeFiles/OOP_lab_task_08.dir/DefinationOfClasses.cpp.o	96c0f3455ab4a172
+627	746	1679833831329852900	OOP_lab_task_08	8bb47352d8f8e4f
+0	578	1679833950466419800	CMakeFiles/OOP_lab_task_08.dir/main.cpp.o	14dbf8c0f85e0d80
+1	564	1679833984088764900	CMakeFiles/OOP_lab_task_08.dir/DefinationOfClasses.cpp.o	96c0f3455ab4a172
+565	679	1679833984204034700	OOP_lab_task_08	8bb47352d8f8e4f
+0	553	1679834043673297500	CMakeFiles/OOP_lab_task_08.dir/DefinationOfClasses.cpp.o	96c0f3455ab4a172
+553	663	1679834043783650500	OOP_lab_task_08	8bb47352d8f8e4f
+28	1052	1679834514920561700	CMakeFiles/OOP_lab_task_08.dir/DefinationOfClasses.cpp.o	96c0f3455ab4a172
+1053	1198	1679834515065150400	OOP_lab_task_08	8bb47352d8f8e4f
+34	659	1679834679687929100	CMakeFiles/OOP_lab_task_08.dir/DefinationOfClasses.cpp.o	96c0f3455ab4a172
+659	780	1679834679808329000	OOP_lab_task_08	8bb47352d8f8e4f

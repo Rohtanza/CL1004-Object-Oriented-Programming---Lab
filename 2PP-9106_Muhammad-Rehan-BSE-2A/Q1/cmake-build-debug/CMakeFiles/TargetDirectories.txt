@@ -1,0 +1,3 @@
+C:/Users/HP G8/OneDrive/Desktop/2PP-9106_Muhammad-Rehan-BSE-2A/Q1/cmake-build-debug/CMakeFiles/Q1.dir
+C:/Users/HP G8/OneDrive/Desktop/2PP-9106_Muhammad-Rehan-BSE-2A/Q1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP G8/OneDrive/Desktop/2PP-9106_Muhammad-Rehan-BSE-2A/Q1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

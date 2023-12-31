@@ -1,0 +1,3 @@
+/mnt/UNI/Semester 02/OOP Lab/OOP Lab Task 09/Question no 2/cmake-build-debug/CMakeFiles/Question_no_2.dir
+/mnt/UNI/Semester 02/OOP Lab/OOP Lab Task 09/Question no 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/UNI/Semester 02/OOP Lab/OOP Lab Task 09/Question no 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+/home/rayhan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/rayhan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/ninja/linux/x64/ninja -G Ninja -S "/mnt/UNI/OOP lab task 08/task n01" -B "/mnt/UNI/OOP lab task 08/task n01/cmake-build-debug"
+-- The C compiler identification is GNU 12.2.1
+-- The CXX compiler identification is GNU 12.2.1
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/UNI/OOP lab task 08/task n01/cmake-build-debug

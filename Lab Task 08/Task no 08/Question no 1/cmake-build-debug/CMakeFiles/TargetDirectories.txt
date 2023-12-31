@@ -1,0 +1,3 @@
+/mnt/UNI/OOP lab task 08/task n01/cmake-build-debug/CMakeFiles/task_n01.dir
+/mnt/UNI/OOP lab task 08/task n01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/UNI/OOP lab task 08/task n01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

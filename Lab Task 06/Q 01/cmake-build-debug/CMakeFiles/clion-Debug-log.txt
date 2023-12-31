@@ -1,0 +1,19 @@
+/home/rayhan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/rayhan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/ninja/linux/x64/ninja -G Ninja -S "/run/media/rayhan/UNI/Semester 02/OOP Lab/OOP Lab Task 06/Task 01" -B "/run/media/rayhan/UNI/Semester 02/OOP Lab/OOP Lab Task 06/Task 01/cmake-build-debug"
+-- The C compiler identification is GNU 12.2.1
+-- The CXX compiler identification is unknown
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_CXX_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CXX" or the CMake cache entry CMAKE_CXX_COMPILER to the full path
+  to the compiler, or to the compiler name if it is in the PATH.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/run/media/rayhan/UNI/Semester 02/OOP Lab/OOP Lab Task 06/Task 01/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/run/media/rayhan/UNI/Semester 02/OOP Lab/OOP Lab Task 06/Task 01/cmake-build-debug/CMakeFiles/CMakeError.log".

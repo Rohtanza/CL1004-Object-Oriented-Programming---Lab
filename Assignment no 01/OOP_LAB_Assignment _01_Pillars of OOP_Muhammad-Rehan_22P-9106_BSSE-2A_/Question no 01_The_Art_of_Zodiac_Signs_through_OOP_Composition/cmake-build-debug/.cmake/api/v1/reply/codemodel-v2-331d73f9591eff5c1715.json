@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Task_no_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Task_no_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_no_1-Debug-c1813f56d0c1eb3cce49.json",
+					"name" : "Task_no_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/University_Data/OOP assignemnt 01/OOP_LAB_Assignment _01_Pillars of OOP_Muhammad-Rehan_22P-9106_BSSE-2A./Question no 01_The_Art_of_Zodiac_Signs_through_OOP_Composition/cmake-build-debug",
+		"source" : "/mnt/University_Data/OOP assignemnt 01/OOP_LAB_Assignment _01_Pillars of OOP_Muhammad-Rehan_22P-9106_BSSE-2A./Question no 01_The_Art_of_Zodiac_Signs_through_OOP_Composition"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

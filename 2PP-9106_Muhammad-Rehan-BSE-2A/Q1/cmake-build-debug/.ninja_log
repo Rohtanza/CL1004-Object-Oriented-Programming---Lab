@@ -1,0 +1,7 @@
+# ninja log v5
+10	479	7061769078006204	CMakeFiles/Q1.dir/Shape.cpp.obj	a20294ab8c24c025
+2	292	7061769135427044	CMakeFiles/Q1.dir/main.cpp.obj	94e222383494f98c
+14	484	7061769078047222	CMakeFiles/Q1.dir/Rectangle.cpp.obj	d274b99e86d39368
+6	450	7061769077706933	CMakeFiles/Q1.dir/Circule.cpp.obj	7dc9d906e8a5dd17
+6	292	7061769135427044	CMakeFiles/Q1.dir/Triangle.cpp.obj	af00dffa477c1e68
+293	377	7061769136243349	Q1.exe	fb9ba4906538ca09

@@ -1,0 +1,14 @@
+# ninja log v5
+2	642	1680244656155003400	CMakeFiles/Question_no_2.dir/main.cpp.o	f970c324e760dbec
+0	684	1680244656195890500	CMakeFiles/Question_no_2.dir/Def_Boat_Plane_Skimmer.cpp.o	56ecad7139003872
+685	775	1680244656286571700	Question_no_2	4fa78066c491d373
+1	458	1680244711214500000	CMakeFiles/Question_no_2.dir/main.cpp.o	f970c324e760dbec
+458	542	1680244711298877200	Question_no_2	4fa78066c491d373
+2	564	1680244879169196500	CMakeFiles/Question_no_2.dir/main.cpp.o	f970c324e760dbec
+1	584	1680244879189325600	CMakeFiles/Question_no_2.dir/Def_Boat_Plane_Skimmer.cpp.o	56ecad7139003872
+584	678	1680244879281841400	Question_no_2	4fa78066c491d373
+1	510	1680244999248461400	CMakeFiles/Question_no_2.dir/Def_Boat_Plane_Skimmer.cpp.o	56ecad7139003872
+511	613	1680244999349588900	Question_no_2	4fa78066c491d373
+2	647	1680245032350329900	CMakeFiles/Question_no_2.dir/main.cpp.o	f970c324e760dbec
+0	498	1680245069962314700	CMakeFiles/Question_no_2.dir/Def_Boat_Plane_Skimmer.cpp.o	56ecad7139003872
+499	591	1680245070055001900	Question_no_2	4fa78066c491d373

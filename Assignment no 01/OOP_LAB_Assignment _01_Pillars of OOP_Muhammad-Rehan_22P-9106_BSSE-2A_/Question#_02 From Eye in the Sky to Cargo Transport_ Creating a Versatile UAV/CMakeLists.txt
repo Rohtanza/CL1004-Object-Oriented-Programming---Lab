@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(Question__02_From_Eye_in_the_Sky_to_Cargo_Transport__Creating_a_Versatile_UAV)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(Question__02_From_Eye_in_the_Sky_to_Cargo_Transport__Creating_a_Versatile_UAV main.cpp UAV.cpp UAV.h CargoDeliveryUAV.cpp CargoDeliveryUAV.h SurvellienceUAV.cpp SurvellienceUAV.h MultiPurpose_UAV.cpp MultiPurpose_UAV.h)
